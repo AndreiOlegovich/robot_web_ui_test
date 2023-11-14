@@ -1,3 +1,4 @@
 *.html
 *.xml
 browser
+src/tests/ui/playwright-log.txt
