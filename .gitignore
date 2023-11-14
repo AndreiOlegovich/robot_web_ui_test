@@ -2,3 +2,4 @@
 *.xml
 browser
 src/tests/ui/playwright-log.txt
+src/libraries/__pycache__
